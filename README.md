@@ -18,6 +18,10 @@ https://www.youtube.com/watch?v=cGhulWAs11c&ab_channel=Geo-SpatialResearch
 - Calulate PDSI second
 https://www.youtube.com/watch?v=HgKrF26PtaA&ab_channel=Geo-SpatialResearch
 
-![Uploading image.png…]()
+![image](https://github.com/shirishmaharjan/Palmer-Drought-Severity-Index-PDSI-/assets/81280828/c5647664-3949-47aa-ae22-932315156f78)
 
 # Next Step: calculate pixel wise and then we have to plot according to the palika wise, like in which area of palika there has been a lot of drought. 
+
+Example : 
+
+![Uploading image.png…]()
