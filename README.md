@@ -24,4 +24,9 @@ https://www.youtube.com/watch?v=HgKrF26PtaA&ab_channel=Geo-SpatialResearch
 
 Example : 
 
+![image](https://github.com/shirishmaharjan/Palmer-Drought-Severity-Index-PDSI-/assets/81280828/4402e101-8c72-4912-a3e8-77c25a563d66)
+
+
+output of Mugu: 
+
 ![Uploading image.png…]()
